@@ -186,7 +186,7 @@ git clone https://huggingface.co/dart-gui/dart-gui-7b
           <div class="trajectory-download-card">
             <div class="trajectory-download-header">
               <span class="trajectory-icon">🗂️</span>
-              <h3>Complete Test Dataset</h3>
+              <h3>All Trajectories (Tested on OSWorld)</h3>
             </div>
             <p class="trajectory-desc">Download all 361 test trajectories with step-by-step visualizations, including screenshots, actions, and rewards.</p>
             <div class="trajectory-meta">
